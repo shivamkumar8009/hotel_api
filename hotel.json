@@ -5,7 +5,7 @@
             "name": "Taj Mahal Palace",
           "location": "Mumbai, Maharashtra",
           "rating": 5.0,
-          "facilities": ["Swimming pool• ", "Spa• ", "Fitness center• ", "Restaurants"],
+          "facilities": ["Swimming pool-", "Spa-", "Fitness center-", "Restaurants"],
           "priceRange": "₹5000",
           "image": ["https://www.fohlio.com/hubfs/The-Psychology-of-Hotel-Interior-Design-Part-3-Acoustics-Fohlio-Peninsula-Shanghai-1.jpg","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
