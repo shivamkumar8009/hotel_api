@@ -6,12 +6,12 @@
           "location": "C.P, Delhi",
           "rating": 5.0,
           "hills": "Hills 🌄",
-          "distance": "0-0.5km ✈︎",
+          "distance": "0.5km ✈︎",
           "cancel": "free cancellation", 
           "stars": "★★★★★",
           "rooms": "2 rooms left",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Restaurants"],
-          "friendly": "Couple Friendly ❤️",
+          "friendly": "Couple Friendly❤️",
           "priceRange": "₹5000 per room",
           "image": ["https://www.fohlio.com/hubfs/The-Psychology-of-Hotel-Interior-Design-Part-3-Acoustics-Fohlio-Peninsula-Shanghai-1.jpg","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -27,7 +27,7 @@
           "stars": "★★★★",
           "rooms": "1 rooms left",
           "facilities": [ "Spa•", "Fitness center•", "Restaurants•","wifi"],
-          "friendly": "Couple Friendly ❤️",
+          "friendly": "Couple Friendly❤️",
           "priceRange": "₹4000 per room",
           "image": ["https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -43,7 +43,7 @@
           "stars": "★★",
           "rooms": "5 rooms left",
           "facilities": ["Swimming pool•", "Spa•", "Restaurants•","Wifi"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "Unmarried Couples not allowed❌",
           "priceRange": "₹3000 per room",
           "image": ["https://img.freepik.com/free-photo/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table_105762-1783.jpg?w=740&t=st=1689051282~exp=1689051882~hmac=60b00def99c55768ce9b9400021248251055f8c27a1a2eb632d6c758cb7bcee3","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -59,7 +59,7 @@
           "stars": "★★★★",
           "rooms": "2 rooms left",
           "facilities": ["Bar•","Swimming pool•", "Spa•","lounge"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "Unmarried Couples not allowed❌",
           "priceRange": "₹2000 per room",
           "image": ["https://c1.wallpaperflare.com/preview/358/879/719/furniture-noithat-bedroom-style-sleeping.jpg","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -75,7 +75,7 @@
           "stars": "★★",
           "rooms": "4 rooms left",
           "facilities": ["Cafe","Swimming pool•", "Spa•", "Restaurants"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "Unmarried Couples not allowed❌",
           "priceRange": "₹6000 per room",
           "image": ["https://foyr.com/learn/wp-content/uploads/2021/12/hotel-interior-design.jpg","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
