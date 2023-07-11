@@ -122,7 +122,7 @@
         {
           "id":"8",
             "name": "The Leela Palace",
-          "location": "New Delhi",
+          "location": "Mumbai",
           "rating": 4.9,
           "hills": "Hills",
           "remarks": "Very Good",
@@ -190,7 +190,7 @@
         {
           "id":"12",
             "name": "The Lalit Grand Palace",
-          "location": "Srinagar, Jammu and Kashmir",
+          "location": "Srinagar, J&K",
           "rating": 4.5,
           "hills": "Hills",
           "remarks": "Very Good",
@@ -240,7 +240,7 @@
         },{
             "id":"15",
             "name": "Taj Palace",
-            "location": "Sardar Patel Marg, Diplomatic Enclave, Delhi",
+            "location": "Sardar Patel Marg, Mumbai",
             "rating": 4.8,
             "hills": "Hills",
             "remarks": "Very Good",
@@ -257,7 +257,7 @@
           {
             "id":"16",
             "name": "The Oberoi New Delhi",
-            "location": "Dr. Zakir Hussain Marg, New Delhi",
+            "location": "Dr. Zakir Hussain Marg, Mumbai",
             "rating": 4.7,
             "hills": "Hills",
             "remarks": "Very Good",
@@ -559,7 +559,7 @@
           {
             "id":"34",
             "name": "Lemon Tree Hotel, ",
-            "location": "Delhi",
+            "location": "Mumbai",
             "rating": 4.6,
             "hills": "Hills",
             "remarks": "Very Good",
