@@ -12,7 +12,7 @@
           "stars": "★★★★★",
           "rooms": "2",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Restaurants"],
-          "friendly": "Couple Friendly❤️",
+          "friendly": "yes",
           "priceRange": "₹5000 per room",
           "image": ["https://www.fohlio.com/hubfs/The-Psychology-of-Hotel-Interior-Design-Part-3-Acoustics-Fohlio-Peninsula-Shanghai-1.jpg","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -29,7 +29,7 @@
           "stars": "★★★★",
           "rooms": "1",
           "facilities": [ "Spa•", "Fitness center•", "Restaurants•","wifi"],
-          "friendly": "Couple Friendly❤️",
+          "friendly": "No",
           "priceRange": "₹4000 per room",
           "image": ["https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -46,7 +46,7 @@
           "stars": "★★",
           "rooms": "5",
           "facilities": ["Swimming pool•", "Spa•", "Restaurants•","Wifi"],
-          "friendly": "Unmarried Couples not allowed❌",
+          "friendly": "yes",
           "priceRange": "₹3000 per room",
           "image": ["https://img.freepik.com/free-photo/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table_105762-1783.jpg?w=740&t=st=1689051282~exp=1689051882~hmac=60b00def99c55768ce9b9400021248251055f8c27a1a2eb632d6c758cb7bcee3","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -80,7 +80,7 @@
           "stars": "★★",
           "rooms": "4",
           "facilities": ["Cafe","Swimming pool•", "Spa•", "Restaurants"],
-          "friendly": "Unmarried Couples not allowed❌",
+          "friendly": "No",
           "priceRange": "₹6000 per room",
           "image": ["https://foyr.com/learn/wp-content/uploads/2021/12/hotel-interior-design.jpg","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-mahal-palace-mumbai/"
@@ -97,7 +97,7 @@
           "stars": "★★★★★",
           "rooms": "2",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Fine dining"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "yes",
           "priceRange": "₹4500",
           "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/umaid-bhawan-palace-jodhpur/"
@@ -114,7 +114,7 @@
           "stars": "★★★★★",
           "rooms": "2",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Rooftop restaurant"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "yes",
           "priceRange": "₹4000",
           "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/"
@@ -199,7 +199,7 @@
           "stars": "★★★★★",
           "rooms": "2",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Lake-view rooms"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "yes",
           "priceRange": "₹3500",
           "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.thelalit.com/the-lalit-srinagar/"
@@ -216,7 +216,7 @@
           "stars": "★★★★★",
           "rooms": "2",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Outdoor dining•", "Lush gardens"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "yes",
           "priceRange": "₹2000",
           "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.tajhotels.com/en-in/taj/taj-west-end-bengaluru/"
@@ -233,7 +233,7 @@
           "stars": "★★★★★",
           "rooms": "2",
           "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Sea-view rooms"],
-          "friendly": "Unmarried Couples not allowed",
+          "friendly": "yes",
           "priceRange": "₹4500",
           "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
           "website": "https://www.vivantahotels.com/en-in/vivanta-kochi-malabar/"
@@ -249,7 +249,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Fine dining"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "no",
             "priceRange": "₹3500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.tajhotels.com/en-in/taj/taj-palace-new-delhi/"
@@ -266,7 +266,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Rooftop restaurant"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "no",
             "priceRange": "₹4500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.oberoihotels.com/hotels-in-delhi-ncr/oberoi-new-delhi/"
@@ -283,7 +283,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Banquet halls"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹1500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.itchotels.in/hotels/new-delhi/itcmaurya.html"
@@ -300,7 +300,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Multiple dining options"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.marriott.com/hotels/travel/delap-jw-marriott-hotel-new-delhi-aerocity/"
@@ -316,7 +316,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Multiple restaurants"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹5000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.tajhotels.com/en-in/taj/taj-ganges-varanasi/"
@@ -333,7 +333,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Rooftop restaurant"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹3500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.radissonhotels.com/en-us/hotels/radisson-varanasi"
@@ -350,7 +350,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Banquet halls"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹4600",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.wyndhamhotels.com/ramada/varanasi-india/ramada-plaza-jhv-varanasi/overview"
@@ -360,7 +360,7 @@
             "location": "Chharabra, Shimla, Himachal Pradesh",
             "rating": 4.8,
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Mountain views"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹1500",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -383,7 +383,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Rooftop restaurant"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹3500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.radissonhotels.com/en-us/hotels/radisson-shimla"
@@ -400,7 +400,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Spa•", "Restaurant•", "Terrace"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹1800",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.oberoihotels.com/hotels-in-shimla-clarkes/"
@@ -417,7 +417,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Restaurant•", "Bar•", "Conference facilities"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹1500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.hotelmarinashimla.com/"
@@ -433,7 +433,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Spa•", "Yoga and Meditation center•", "Wellness programs•", "Gourmet dining"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.anandaspa.com/"
@@ -450,7 +450,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Luxury cottages•", "Swimming pool•", "Jungle safaris•", "Bird watching"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "no",
             "priceRange": "₹5000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.jimsjungleretreat.com/"
@@ -467,7 +467,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Mountain views•", "Restaurant•", "Library•", "Outdoor seating"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "no",
             "priceRange": "₹1500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.thekumaon.com/"
@@ -484,7 +484,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Heritage property•", "Gardens•", "Terrace•", "Multi-cuisine restaurant"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.leisurehotels.co.in/naini-retreat-nainital"
@@ -501,7 +501,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": [ "Swimming pool•", "Jungle safaris•", "Outdoor activities"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.leisurehotels.co.in/the-river-view-retreat-corbett"
@@ -517,7 +517,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Swimming pool•", "Spa•", "Fitness center•", "Lake-view rooms"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹3500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.thelalit.com/the-lalit-srinagar/"
@@ -534,7 +534,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Luxury accommodations•", "Spa•", "Fitness center•", "Multiple dining options"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.khyberhotels.com/"
@@ -545,7 +545,7 @@
             "location": "Kralsangri, Srinagar, Jammu and Kashmir",
             "rating": 4.7,
             "facilities": ["Lake view rooms•", "Spa•", "Fitness center•", "Outdoor dining"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2000",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -568,7 +568,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Restaurant•", "Bar•", "Fitness center•", "Conference facilities"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.lemontreehotels.com/lemon-tree-hotel/hotel"
@@ -601,7 +601,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Spa•", "Fitness center•", "Multi-cuisine restaurant•", "Terrace"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹5000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.mayfairhotels.com/darjeeling/"
@@ -618,7 +618,7 @@
             "stars": "★★★★★",
             "rooms": "2",
             "facilities": ["Tea tours•", "Private bungalows•", "Riverside picnics•", "Outdoor activities"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.glenburnteaestate.com/"
@@ -635,7 +635,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Colonial-style rooms•", "Library•", "Restaurant•", "Garden"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹2500",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.windamerehotel.com/"
@@ -646,7 +646,7 @@
             "location": "H.D. Lama Road, Darjeeling, West Bengal",
             "rating": 3.3,
             "facilities": ["Mountain views•", "Restaurant•", "Bar•", "Terrace"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹3500",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -669,7 +669,7 @@
           "stars": "★★★★★",
           "rooms": "2",
             "facilities": ["Mountain views•", "Restaurant•", "Bar•", "Garden"],
-            "friendly": "Unmarried Couples not allowed",
+            "friendly": "yes",
             "priceRange": "₹5000",
             "image": ["https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png","https://img1.10bestmedia.com/Images/Photos/378649/Park-Hyatt-New-York-Manhattan-Sky-Suite-Master-Bedroom-low-res_55_660x440.jpg"],
             "website": "https://www.cedarinn.com/"
