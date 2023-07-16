@@ -88,7 +88,7 @@
         {
           "id":"6",
             "name": "Umaid Palace",
-          "location": "Jodhpur, Rajasthan",
+          "location": "Jaipur, Rajasthan",
           "rating": "4",
           "hills": "Hills",
           "remarks": "Very Good",
@@ -139,7 +139,7 @@
         {
           "id":"9",
             "name": "ITC Grand Chola",
-          "location": "Tamil Nadu",
+          "location": "Lucknow",
           "rating": "2",
           "hills": "Hills",
           "remarks": "Very Good",
@@ -156,7 +156,7 @@
         {
           "id":"10",
             "name": "Taj Falaknuma",
-          "location": "Hyderabad, Telangana",
+          "location": "Chandigarh",
           "rating": "3",
           "hills": "Hills",
           "remarks": "Very Good",
@@ -190,7 +190,7 @@
         {
           "id":"12",
             "name": "The Lalit Palace",
-          "location": "Srinagar, J&K",
+          "location": " Jammu",
           "rating": "4",
           "hills": "Hills",
           "remarks": "Very Good",
@@ -207,7 +207,7 @@
         {
           "id":"13",
             "name": "West End",
-          "location": "Mysore, Karnataka",
+          "location": "Lucknow",
           "rating": "2",
           "hills": "Hills",
           "remarks": "Very Good",
@@ -224,7 +224,7 @@
         {
           "id":"14",
             "name": "Vivanta Malabar",
-          "location": "Kochi,Kerala",
+          "location": "Chandigarh",
           "rating": "2",
           "hills": "Hills",
           "remarks": "Very Good",
@@ -256,7 +256,7 @@
           },
           {
             "id":"16",
-            "name": "The Oberoi New Delhi",
+            "name": "The Oberoi ",
             "location": "Zakir Marg, Mumbai",
             "rating": "3",
             "hills": "Hills",
@@ -274,7 +274,7 @@
           {
             "id":"17",
             "name": "ITC Maurya",
-            "location": "Amritsar, Punjab",
+            "location": "Lucknow",
             "rating": "2",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -341,7 +341,7 @@
           {
             "id":"21",
             "name": "Ramada JHV ",
-            "location": "Kurso, West Bengal",
+            "location": "Manali",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -374,7 +374,7 @@
           {
             "id":"23",
             "name": "Radisson Hotel ",
-            "location": "Manali, Himachal Pradesh",
+            "location": "Shimla, Himachal Pradesh",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -391,7 +391,7 @@
           {
             "id":"24",
             "name": "The Oberoi Clarkes",
-            "location": "Nainital, Uttarakhand",
+            "location": "Shimla, Himachal Pradesh",
             "rating": "2",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -408,7 +408,7 @@
           {
             "id":"25",
             "name": "Hotel Marina",
-            "location": "Mahabaleshwar, Maharashtra",
+            "location": "Shimla, Himachal Pradesh",
             "rating": "4",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -424,7 +424,7 @@
           },{
             "id":"26",
             "name": "Ananda Himalayas",
-            "location": "Narendra Nagar, Uk",
+            "location": "Narendra Nagar, Nainital",
             "rating": "4",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -441,7 +441,7 @@
           {
             "id":"27",
             "name": "Jim's Jungle Retreat",
-            "location": "Village pula, Uk",
+            "location": "Village pula, Nainital",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -458,7 +458,7 @@
           {
             "id":"28",
             "name": "The Kumaon",
-            "location": "Kasar Devi, Uttarakhand",
+            "location": "Kasar Devi, Nainital",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -474,8 +474,8 @@
           },
           {
             "id":"29",
-            "name": "Naini Retreat",
-            "location": "Ayarpatta, Uttarakhand",
+            "name": "Retreat",
+            "location": "Ayarpatta, Goa",
             "rating": "2",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -492,7 +492,7 @@
           {
             "id":"30",
             "name": "The Riverview",
-            "location": "Mount Abu, Rajasthan",
+            "location": "Kashmir",
             "rating": "4",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -508,7 +508,7 @@
           },{
             "id":"31",
             "name": "The Lalit Palace",
-            "location": "Gupkar Road, J&K",
+            "location": "Gupkar Road, Jammu",
             "rating": "4",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -525,7 +525,7 @@
           {
             "id":"32",
             "name": "The Khyber ",
-            "location": "Gulmarg, J&K",
+            "location": "Gulmarg, Kashmir",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -542,7 +542,7 @@
           {
             "id":"33",
             "name": "Vivanta Dal View",
-            "location": "Kralsangri, J&K",
+            "location": "Kralsangri, Kashmir",
             "rating": "3",
             "facilities": ["Lake view rooms•", "Spa•", "Fitness center•", "Outdoor dining"],
             "friendly": "yes",
@@ -559,7 +559,7 @@
           {
             "id":"34",
             "name": "Lemon Tree Hotel, ",
-            "location": "Mumbai",
+            "location": "Delhi",
             "rating": "2",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -576,7 +576,7 @@
           {
             "id":"35",
             "name": "Hotel Asia",
-            "location": "Near Dal Lake,J&K",
+            "location": "Near Dal Lake,Jammu",
             "rating": "4",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -592,7 +592,7 @@
           },{
             "id":"36",
             "name": "Mayfair Darjeeling",
-            "location": "The Mall, West Bengal",
+            "location": "The Mall, Manali",
             "rating": "4",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -609,7 +609,7 @@
           {
             "id":"37",
             "name": "Glenburn Tea Estate",
-            "location": "Near Bagora, West Bengal",
+            "location": "Near Bagora, Manali",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -626,7 +626,7 @@
           {
             "id":"38",
             "name": "Windamere Hotel",
-            "location": "Observatory Hill, West Bengal",
+            "location": "Observatory Hill, Chandigarh",
             "rating": "3",
             "hills": "Hills",
             "remarks": "Very Good",
@@ -643,7 +643,7 @@
           {
             "id":"39",
             "name": "Viceroy Hotel",
-            "location": "H.D. Lama Road, West Bengal",
+            "location": "H.D. Lama Road, Jaipur",
             "rating": "2",
             "facilities": ["Mountain views•", "Restaurant•", "Bar•", "Terrace"],
             "friendly": "yes",
@@ -660,7 +660,7 @@
           {
             "id":"40",
             "name": "Cedar Inn",
-            "location": "Jalapahar Road, West Bengal",
+            "location": "Jalapahar Road, Lucknow",
             "rating": "2",
             "hills": "Hills",
             "remarks": "Very Good",
